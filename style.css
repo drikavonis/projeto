@@ -1,0 +1,19 @@
+body{
+    color:blueviolet;
+    background-color: aliceblue;
+}
+
+header {
+    border-bottom: solid 2px rgb(94, 136, 252)  ;
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(0, 0, 0) ;
+
+}
+section{
+   background-color: rgb(77, 110, 253); 
+   padding-top: 80px;
+   padding-bottom: 80px;
+   display:flex;
+   justify-content: center ;
+}
